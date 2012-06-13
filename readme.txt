@@ -7,7 +7,7 @@ Author URI: http://lineshjose.com/
 Author: Linesh Jose
 Donate link: http://bit.ly/go_fund
 Requires at least: 3.3.0
-Tested up to: 3.3.2
+Tested up to: 3.4
 Stable tag: 12.06.13
 Version: 12.06.13
 License: GPLv2 or later
@@ -16,7 +16,7 @@ This is a simple plugin for adding custom nav menus to your WordPress Adminbar/T
 
 == Description ==
 
-This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar.Please note this: **Custom Adminbar Menus** plugin is only compatible for **WordPress 3.3** or above versions. Please update your WordPress application if you're using an old version. 
+This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar. Please note this: **Custom Adminbar Menus** plugin is only compatible for **WordPress 3.3** or above versions. Please update your WordPress application if you're using an old version. 
 
 Watch this video below, to know how to enable/install Blue Admin Plugin on your WordPress site.
 [youtube http://www.youtube.com/watch?v=1kY-feqTReE]

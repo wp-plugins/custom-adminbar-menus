@@ -16,13 +16,19 @@ This is a simple plugin for adding custom nav menus to your WordPress Adminbar/T
 
 == Description ==
 
-This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar.
+This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar.Please note this: **Custom Adminbar Menus** plugin is only compatible for **WordPress 3.3** or above versions. Please update your WordPress application if you're using an old version. 
+
+Watch this video below, to know how to enable/install Blue Admin Plugin on your WordPress site.
+[youtube http://www.youtube.com/watch?v=1kY-feqTReE]
 
 == Installation ==
 
 1. Upload **Custom Adminbar Menus** folder to the `/wp-content/plugins/` directory or download it from the administration
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Navigate in Wordpress Admin Pages and see the new, clean design!
+
+Watch this video below, to know how to enable/install Blue Admin Plugin on your WordPress site.
+[youtube http://www.youtube.com/watch?v=1kY-feqTReE]
 
 == Frequently Asked Questions ==
 

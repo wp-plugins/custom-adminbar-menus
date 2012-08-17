@@ -50,7 +50,7 @@ Second version.
 = 12.05 =
 First version.
 
-*Our version numbering scheme is based on the release  date. The version number comes from the year, month and day of the release.* 
+*Our version numbering scheme is based on the release  date. The version number comes from the year and month of the release.* 
 
 == Support ==
 For support & more informations visit http://lineshjose.com/contact To contact the author the mail is lineshjose(@)gmail(.)com 

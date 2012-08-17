@@ -1,15 +1,15 @@
 === Plugin Name ===
-Contributors: lineshjose
 Plugin Name: Custom Adminbar Menus
 Plugin URI: http://tech.lineshjose.com/
 Tags: Custom Adminbar Menus,Adminbar,toolbar,menu,nav menu
+Contributors: lineshjose
 Author URI: http://lineshjose.com/
 Author: Linesh Jose
-Donate link: http://bit.ly/go_fund
+Donate link: http://bit.ly/donate-blue-admin
 Requires at least: 3.3.0
 Tested up to: 3.4.1
-Stable tag: 12.06.13
-Version: 12.06.13
+Stable tag: 12.08
+Version: 12.08
 License: GPLv2 or later
 
 This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar.
@@ -38,10 +38,14 @@ Watch this video below, to know how to enable/install Custom Adminbar Menus Plug
 No, because Wordpress could change after each update the admin style, and the plugin is based on it. So if you want to be sure to see the correct style of **Custom Adminbar Menus** plugin, you need latest Wordpress version.
 
 == Screenshots ==
-1. screenshot-1.jpg
+1. Screenshot.jpg
 
 
 == Changelog ==
+
+= 12.08 =
+Second version.
+
 
 = 12.05 =
 First version.

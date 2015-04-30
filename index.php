@@ -3,12 +3,12 @@
 Plugin Name: Custom Adminbar Menus
 Plugin URI: http://tech.lineshjose.com/
 Description: This is a simple plugin for adding custom nav menus to your WordPress Adminbar/Toolbar..
-Version: 12.08
+Version: 15.05
 Author: Linesh Jose
 Author URI: http://lineshjose.com
 License: GPLv2 or later
 */
-	$version='12.08';
+	$version='15.05';
 	global $wp_version;
 
 
